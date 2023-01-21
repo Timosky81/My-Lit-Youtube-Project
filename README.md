@@ -1,3 +1,9 @@
+# PROJECT
+This is a react youtube clone project that uses Rapid API and Material UI.
+
+# CREDIT
+This project was desined during my JS Mastery course on youtube. All credit goes to JS Mastery as I only made a few changes of my own.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
